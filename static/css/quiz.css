@@ -1,0 +1,27 @@
+/* 题目卡片样式 */
+.quiz-card {
+    background-color: white;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 15px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+/* 选项样式 */
+.quiz-option {
+    display: block;
+    padding: 10px;
+    margin-bottom: 8px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+/* 按钮样式 */
+.quiz-btn {
+    padding: 8px 15px;
+    border: none;
+    border-radius: 20px;
+    background: linear-gradient(135deg, #004E89, #3a7bd5);
+    color: white;
+}
